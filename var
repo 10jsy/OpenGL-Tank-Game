@@ -1,0 +1,21 @@
+Tank related variables to be added
+
+VelocityOld
+VelocityNew
+AccelerationPositive
+AccelerationNegative
+PositionX_New
+PositionX_Old
+PositionY_New
+PositionY_Old
+VelocityMagnitude
+NormalizedVectorDirection
+
+WASD Movement
+Space Shoot
+Mouse camera/turret aim
+- zoom out
+= zoom in
+Tab = score
+Esc = quit
+
